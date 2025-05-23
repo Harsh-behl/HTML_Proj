@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medicine</title>
+</head>
+<body>
+    <table border="0px" width="100%" cellpadding="10px">
+    <!-- header line -->
+     <tr id="top">
+        <th  cellpadding="0px">
+            <img src="./assets/mlogo.png" width="100">
+        </th>
+        <th width="70%">
+            
+        </th>
+        <th>
+            <input type="text" placeholder="Search..">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/>
+              </svg>
+        </th>
+     </tr>
+    </table>
+<!--Anchor tags line  -->
+<table border="0px" width="100%" cellpadding="10px">
+<tr align="center" >
+    <td>
+        <a href="#home">Home</a></td>
+        <td>
+  <a href="#about">About</a></td>
+  <td>
+  <a href="#service">Service</a>
+    </td>
+    <td>
+        <a href="#team">Team</a></td>
+        <td>
+            <a href="#gallery">Gallery</a></td>
+            <td>
+                <a href="#contact">Contact Us</a></td>
+</tr>
+<tr width="100px">
+<td colspan="6" >
+    <img src="./assets/mbanner.jpg" width="100%" height="500">
+</td>
+</tr>
+</table>
+<table border="0px" width="100%" cellpadding="10px">
+<tr >
+   
+        <td align="center" colspan="3" id="about" >
+            <strong>About US</strong>
+        </td>
+    
+</tr>
+        <tr>
+        <td colspan="3">
+        <marquee>"Hamaari website par aapko milti hai ek vishwasniya aur suvidha se bhari healthcare seva, jahan aap ghar baithe apni zarurat ke dawaiyon ko aasani se order kar sakte hain. Hum sirf genuine aur licensed dawaayein hi prastut karte hain, jo certified suppliers se prapt hoti hain. Aapke swasthya ko dhyan mein rakhte hue hum tezi, suraksha aur vishwas ke saath aap tak dawaiyon ki delivery karte hain. Chaahe prescription medicines ho ya wellness products, hamaari team hamesha taiyaar hai aapki seva mein – taki aapka jeevan rahe swasth aur nishchint."</marquee> 
+    </td>
+</tr>
+<tr colspan="3">
+    <td width="50%">
+        <img src="./assets/somemedi-1.jpg" height="300" width="100%">
+        </td>
+
+        
+        <td >
+            <marquee direction="up" align="center">
+               <h3> General Pharmacy Website</h3>
+"Your Trusted Partner in Health and Wellness"<br>
+
+"Delivering Quality Medicines to Your Doorstep"<br>
+
+"Care You Can Count On, Medicines You Can Trust"
+<h3>Online Medicine Delivery </h3>
+"Fast, Safe, and Reliable Medicine Delivery"<br>
+
+"Healthcare at Your Fingertips"<br>
+
+"Order Medicines Online – Quick, Easy, Secure"
+
+<h3>Health & Wellness Focused </h3>
+"Empowering Health, One Prescription at a Time"<br>
+
+"Committed to a Healthier Tomorrow"<br>
+
+"Because Every Dose Matters"
+</marquee>
+        </td>
+   </tr>
+  
+<tr>
+    <td colspan="3" align="center" id="service">
+        <hr>
+    <strong> Services </strong>
+    </td>
+</tr>
+    <tr colspan="3">
+        <td >
+            <h3> General Pharmacy Website</h3> 
+            "Your Trusted Partner in Health and Wellness"<br>
+
+"Delivering Quality Medicines to Your Doorstep"<br>
+
+"Care You Can Count On, Medicines You Can Trust"
+        </td>
+        <td>
+            <h3>Online Medicine Delivery </h3>
+"Fast, Safe, and Reliable Medicine Delivery"<br>
+
+"Healthcare at Your Fingertips"<br>
+
+"Order Medicines Online – Quick, Easy, Secure"
+        </td>
+        <td>
+            <h3>Health & Wellness Focused </h3>
+"Empowering Health, One Prescription at a Time"<br>
+
+"Committed to a Healthier Tomorrow"<br>
+
+"Because Every Dose Matters"
+        </td>
+    </tr>
+    <!-- TEAM ROW -->
+    <tr >
+        <td align="center" colspan="3" id="team">
+        <strong> Team</strong>
+        </td>
+        
+     </tr>
+    
+     <td align="center">
+        <img src="./assets/doctor1.jpg" alt="" height="100" width="100" ><br>
+        English Doctor<br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis ex quis voluptates obcaecati dolorem in praesentium accusantium dolores voluptate vero, fugiat impedit eos pariatur illo ullam, iure culpa voluptatem voluptatum.
+    </td>
+    <td align="center">
+        <img src="./assets/doctor2.jpg" alt="" height="100" width="100" ><br>
+        Indian Doctor<br>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam praesentium aspernatur, repudiandae ipsam qui eligendi fugiat ab dicta, perferendis tenetur quis quos porro expedita earum corporis animi maxime, voluptate quibusdam?
+    </td>
+    <td align="center">
+        <img src="./assets/nurse.jpg" alt="" height="100" width="100" ><br>
+        Nurse<br>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius enim impedit dolorem dicta recusandae ab sequi velit officia! Facilis iure aut eligendi consectetur velit, nisi unde ab necessitatibus fuga ratione.
+    </td>
+
+    <!-- Gallery Row -->
+     <tr>
+        <td colspan="3" align="center" id="gallery">
+        <strong> Gallery </strong>
+        
+    </td>
+     </tr>
+
+     <tr>
+        <td align="center">
+            <a href="file:///D:/O7%20Services/HTML/01-05-25/medicine.html">Our Website Link</a>
+
+        </td>
+        <td>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3408.5974343987255!2d75.58747926248535!3d31.314869831669835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a5a4c6fae8ba9%3A0xd49b2f292eb27999!2sO7%20Services!5e0!3m2!1sen!2sin!4v1746103894838!5m2!1sen!2sin" width="450" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </td>
+        <td>
+            <iframe width="450" height="250" src="https://www.youtube.com/embed/fygdAhrkB14?si=PKGS_UwCFOTPY3zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+     </tr>
+    
+<!-- Form row -->
+<tr>
+
+
+     <td align="center" id="contact">
+        <strong>Contact us </strong><br>
+        +91 999999999
+     </td>
+     <td>
+        <form>
+            <table cellpadding="10px" cellspacing="1px">
+              <tr>
+                <td>Name:</td>
+                <td><input type="text" name="name"></td>
+              </tr>
+              <tr>
+                <td>Email:</td>
+                <td><input type="email" name="email"></td>
+              </tr>
+          
+              <tr>
+                <td>Contact:</td>
+                <td><input type="number" name="name"></td>
+              </tr>
+              <tr>
+                <td>Message:</td>
+                <td><textarea name="" id=""></textarea></td>
+              </tr>
+          
+              <tr>
+                <td colspan="2" align="center">
+                  <input type="submit" value="Submit">
+                </td>
+              </tr>
+            </table>
+          </form>
+     </td>
+     <td align="center">
+        <a href="#top">Go to Top</a>
+     </td>
+    </tr>
+    </table>
+    <hr>
+    <!-- Footer tag -->
+     <footer align="center">
+        @All copyright reserved - HARSH
+    </footer>
+
+</body>
+</html>
